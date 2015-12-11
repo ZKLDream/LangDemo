@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  LangDemo
+
+  Created by joe feng on 2015/12/12.
+  Copyright © 2015年 joe feng. All rights reserved.
+*/
+"CFBundleDisplayName" = "English Name";
